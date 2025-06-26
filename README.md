@@ -17,11 +17,11 @@
 
 ### <img src="https://github.com/withxat/withxat/blob/main/MCSVG/device_line.svg?raw=true" alt="Use" height="16px" width="16px" /> use
 
-- browser: `Arc`, `Firefox Developer Edition`, `Safari`
+- browser: ~`Arc`~, `Firefox Developer Edition`, `Safari`
 - editor: `Visual Studio Code`, `Zed`, `Cursor`
 - terminal: `Ghostty`
 - font: `Cascadia Code`, `Maple Mono`
-- device: `iPhone 13 Pro`, `Mac mini 2023`, `MacBook Air M2`, `OnePlus 8 Pro`
+- device: `iPhone 16 Pro`, ~`iPhone 13 Pro`~, ~`Mac mini M2`~, `MacBook Air M2`, ~`OnePlus 8 Pro`~
 - keyboard: `Keychron K3`
 - mouse: `Logitech G Pro Wireless`
 
