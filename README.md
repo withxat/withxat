@@ -8,11 +8,11 @@
 
 ### <img src="https://github.com/withxat/withxat/blob/main/MCSVG/device_line.svg?raw=true" alt="Use" height="15px" width="15px" /> use
 
-- browser: ~`Arc`~, `Firefox Developer Edition`, `Safari`
-- editor: `Visual Studio Code`, `Zed`, `Cursor`
+- browser: `Helium`, `Firefox Developer Edition`, `Safari`
+- editor: `Zed`, `Cursor`
 - terminal: `Ghostty`
 - font: `Cascadia Code`, `Maple Mono`
-- device: `iPhone 16 Pro`, ~`iPhone 13 Pro`~, ~`Mac mini M2`~, `MacBook Air M2`, ~`OnePlus 8 Pro`~
+- device: `iPhone 16 Pro`, `MacBook Pro M5`
 - keyboard: `Keychron K3`
 - mouse: `Logitech G Pro Wireless`
 
