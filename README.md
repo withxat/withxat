@@ -1,4 +1,4 @@
-**Xat** /aɪ tʌ/
+**Xat** /ˈeɪtoʊ/
 
 > Love cat, design & simple life.
 
